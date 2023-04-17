@@ -82,12 +82,6 @@ Ogg
 mp3
 WAV
 Ogg
-34) Is audio tag supported in HTML 5?
-Yes. It is used to add sound or music files on the web page. There are three supported file formats for HTML 5 audio tag.
-
-mp3
-WAV
-Ogg
 
 35) What is the difference between progress and meter tag?
 :- The progress tag is used to represent the progress of the task only while the meter tag is used to measure data within a given range.
@@ -114,5 +108,17 @@ No.	Typical HTML4	          Typical HTML5
 
 42) If I do not put <!DOCTYPE html> will HTML 5 work?
  :-Yes, HTML5 will still work without <!DOCTYPE html>, but it is highly recommended to include it as it helps web browsers understand how to interpret the HTML code and triggers standards mode.
+
+43) What is the use of the required attribute in HTML5?
+:-specifies that an input field must be filled out before submitting the form. 
+
+44) What are the new <input> types for form validation in HTML5?
+:- The new input types for form validation are email, URL, number, tel, and date.
+
+45) What are Attributes and how do you use them?
+:-
+
+
+
 
 
