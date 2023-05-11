@@ -1,0 +1,106 @@
+1) What is CSS?
+CSS stands for Cascading Style Sheet. It is a popular styling language which is used with HTML to design websites.
+
+
+(*)what are css preprocessers? CSS?
+:-CSS preprocessors are tools that extend the capabilities of CSS by providing advanced syntax and features such as variables, functions and it can compile the code in standard css
+
+2) what is the origin of css?
+:- SGML (Standard Generalized Markup Language) is the origin of CSS. It is a language that defines markup languages.
+
+3) What are the different variations of CSS?
+Following are the different variations of CSS:
+CSS1
+CSS2
+CSS2.1
+CSS3
+CSS4
+
+4) How can you integrate CSS on a web page?
+:-There are three methods to integrate CSS on web pages.
+     1) inlin method of css.
+     2) internal method of css.
+     3)  external method of css.
+
+5) What are the advantages of CSS?
+:-  1) Better Website Speed
+    2) easier to maintain.
+    3) Time Saving.
+    4) Better Device Compatibility
+    5) Positioning of Design Elements
+
+6) What are the limitations of CSS?
+:- 1) Limitations of vertical control.
+   2) You cannot add more than 10,000 characters      within the CSS section per event.
+    3) No expressions.
+    4) Pseudo-class not controlled by dynamic    behavior.
+    5)No Column declaration.
+
+7) What are the CSS frameworks?v
+:-CSS frameworks are ready-made collections of CSS code that provide developers with pre-built style rules and UI components to design attractive and responsive websites faster and easier.
+
+ CSS frameworks are: -
+
+Bootstrap
+Foundation
+Semantic UI
+Gumby
+Ulkit
+
+8) Why background and color are the separate properties if they should always be set together?
+
+:- beacause Background sets the element's background color or image, while color sets the text color. They can be used together or separately for different design effects.
+
+9) What is Embedded Style Sheet?
+:- An embedded style sheet is a block of CSS code placed within the <style> tags in the <head> section of an HTML document.
+
+10) What is a CSS selector?
+ :- css selector is code pattern that used to identify and select specific html element on web page to apply styles.and these are foundation building blicks of css style sheet.
+
+11) Name some CSS style components.
+:- Some CSS Style components are:
+
+Selector
+Property
+Value
+
+12) What is the use of CSS Opacity?
+:- CSS Opacity is used to control the transparency of an element on a web page,
+
+13) Explain universal selector.
+:-The Universal Selector (*) in CSS selects and applies styles to all elements in an HTML document.
+
+14) What is the difference between class selectors and id selectors?
+:-Class selectors can be used on multiple elements, while id selectors can only be used on a single element
+
+15) What is RWD?
+RWD stands for Responsive Web Design. This technique is used to display the designed page perfectly on every screen size and device, for example, mobile, tablet, desktop and laptop. You don't need to create a different page for each device.
+
+16) What are the benefits of CSS sprites?
+:CSS sprites can reduce the number of HTTP requests and improve website performance.
+
+17) What is the difference between logical tags and physical tags?
+:-Physical tags describe the appearance of content, while logical tags describe the purpose or meaning of content
+Physical tags include tags like <b>, <i>, and <u>, while logical tags include tags like <header>, <nav>, and <section>.
+
+18) What is the CSS Box model and what are its elements?
+:-The CSS Box model is a layout concept that describes how elements on a webpage are structured, consisting of content, padding, border, and margin.
+
+19) What is the float property of CSS?
+:-The float property is used to position elements to the left or right within their parent container in CSS.
+
+20) What is the purpose of the z-index and how is it used?
+:-z-index controls the layering of elements on a webpage, allowing designers to determine which elements appear in front of others.
+
+Z-Index can take the following values:
+
+Auto: Sets the stack order equal to its parents.
+Number: Orders the stack order.
+Initial: Sets this property to its default value (0).
+Inherit: Inherits this property from its parent element.
+
+21) Explain the difference between visibility: hidden and display: none? 
+:- "visibility: hidden" hides an element while keeping its space on the page, while "display: none" hides an element and removes its space on the page.
+
+
+

@@ -32,7 +32,7 @@ Entities are frequently used to display reserved characters (which would otherwi
 
 22) How to make a picture of a background image of a web page in html only?
  :-To make a picture a background image on a web page, you should put the following tag code after the </head> tag.
-ex:
+ex:o
 <body background = "image.gif">
 
 23) What are empty elements?
@@ -95,7 +95,7 @@ Ogg
 39) What is the use of details and summary tag?
 :-The details tag is used to specify some additional details on the web page. It can be viewed or hidden on demand. The summary tag is used with details tag. 
 
-40)What is datalist tag?tttt
+40)What is datalist tag?
 :-The HTML 5 datalist tag provides an autocomplete feature on the form element. It facilitates users to choose the predefined options to the users to select data.
 
 41) How are tags migrated from HTML4 to HTML5?
