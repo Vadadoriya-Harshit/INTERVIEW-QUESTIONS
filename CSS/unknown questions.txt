@@ -1,0 +1,7 @@
+1) utf-8
+2) @media screen
+3)units conversation
+4)media types availabele in css
+5)fav icon
+6)thead tbody
+7)grid more properties
