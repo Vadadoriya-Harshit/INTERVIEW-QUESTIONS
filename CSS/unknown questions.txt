@@ -1,7 +1,25 @@
-1) utf-8
-2) @media screen
-3)units conversation
-4)media types availabele in css
-5)fav icon
-6)thead tbody
-7)grid more properties
+1) what is utf-8 in Meta Tag?
+:-UTF-8 in a Meta Tag is a character encoding standard that allows websites to display and handle text in multiple languages.
+
+2) what is @media screen in css?
+:-@media screen in CSS is a rule that targets styles specifically for screens or devices.
+
+3)what is units conversation in css?
+:-Unit conversion in CSS refers to the process of converting values from one unit of measurement to another.
+
+4)how many media types availabele in css?
+:-There are four media types available in CSS:
+
+   all: Applies to all devices and media types.
+  screen: Applies to computer screens, tablets, and smartphones.
+  print: Applies when printing the document.
+  speech: Applies to speech synthesizers or screen readers.
+
+5)what is fav icon in css?
+:-A favicon is a small icon displayed in the browser tab and bookmarks that represents a website.
+
+6)what is thead tbody?
+:-We use <thead> to group table header content, and <tbody> to group table body content in HTML tables, improving structure, accessibility, and styling.
+
+7)Explain grid more properties?
+:-
