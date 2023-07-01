@@ -1,0 +1,47 @@
+1) what is a browser ?
+:-A browser is a software that helps you explore the internet and visit websites.
+
+2) what is server?
+:-A server is a computer that stores and shares information or services over a network.It handles requests and delivers data or performs tasks for connected clients.
+
+3) what is protocol ?
+:-A protocol is a set of rules that devices follow to communicate and share information on a network.
+
+4) what is http ?
+:-HTTP (Hypertext Transfer Protocol) is a communication protocol for the internet that helps web browsers and servers exchange web pages and data, making it possible to view and access information online.
+
+5) what is https ?
+:-HTTPS is a secure version of HTTP that encrypts data transmitted between a web browser and a web server.
+
+6) what is difference between http and https ?
+:- HTTP sends data over the internet in plain text, while HTTPS encrypts the data to ensure secure communication between a web browser and a web server.
+
+7) what is domain ?
+:-A domain is the unique address of a website on the internet, like the "home" or "location" where the website can be found.
+
+8) what is sub domain ?
+:- A subdomain is like a subsection of a website that has its own unique web address. It's created by adding a prefix before the main domain name, separated by a dot. Subdomains are commonly used to organize different parts of a website, such as a blog or a store, allowing users to access specific sections with their own distinct URL.
+
+9) what is website ?
+:-A website is a collection of web pages and content that can be accessed through a browser, providing information or services on the internet.
+
+10) what is web hosting ?
+:-Web hosting is the process of storing website files on servers and making them available for viewing on the internet
+
+11) what is apache server?
+:-Apache server is a software program that runs on a computer and serves web pages to visitors when they access a website.
+
+12) what is url ?
+:-A URL (universal resources locator)is a web address used to locate and access resources on the internet.
+
+13) what is uri ?
+:- URI stands for Uniform Resource Identifier.A URI is a string that identifies a resource on the internet
+
+14) what is urn ?
+:-
+
+15) what is ftp?
+:- File Transfer Protocol (FTP) is a standard network protocol used for transferring files between a client and a server over a computer network. I
+
+16) what is Tcp ?
+ :- TCP (Transmission Control Protocol) is a method used by   devices connected to a network to reliably send and receive   data.

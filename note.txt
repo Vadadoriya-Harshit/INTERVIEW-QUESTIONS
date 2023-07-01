@@ -1,0 +1,4 @@
+1)what is a tcp and udp diifference
+2)interedpreted programming language
+3)strongly type and weekly type programming language
+4)what are closers in javascript why and where it is used
