@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            list-style-type: none;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        header{
+           display: grid;
+           grid-template-columns: 3fr 5fr 2fr;
+           box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        }
+        .company-brand{
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            padding: 20px;
+        }
+        nav{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }
+       
+        header nav ul li{
+            display: inline;
+            padding-inline: 22px;
+        }
+        header .actions{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: 0.4vw;
+        }
+        header .actions ul li{
+            display: inline;
+            font-size: 22px;
+        }
+        .menu-bar{
+            display: none;
+            font-size: 22px;
+            cursor: pointer;
+        }
+        @media(max-width:992px)
+        {
+            header nav{
+                display: none;
+            }
+            header{
+                grid-template-columns:  1fr 1fr;
+            }
+            header .actions ul{
+                display: none;
+            }
+            header .actions{
+                display: flex;
+                justify-content: end;
+                padding-right: 10%;
+            }
+
+            .menu-bar{
+                display: block;
+                padding: 30px;
+            }
+          
+           
+        }
+     
+        .sidebar{
+            width: 50%;
+            background-color: white;
+            height: 100%;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            position: fixed;
+            top: 0%;
+            left: -55%;
+            transition: 0.5s;
+
+           }
+           .menu-bar:hover .sidebar{
+              left: 0%;
+           }
+           .sidebar{
+             background-color: red;
+           }
+           .sidebar ul li{
+            padding: 20px;
+           }
+           .sidebar ul li a{
+            color: black !important;
+            text-decoration: underline;
+           }
+
+
+    </style>
+</head>
+<body>
+    <header>
+    <div class="company-brand">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVQkE5gvXjPx2FiHxSoco3d3lwwPxvKoyrqxWnC7e6Afs__ygSyL8UGKyiOZUAr1Y3so&usqp=CAU" alt="" width="136vw" height="55vh">
+    </div>
+      <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">News</a></li>
+         </ul>
+     </nav>
+     <div class="actions">
+    <ul>
+        <li> <a href=""><i class="fa-solid fa-magnifying-glass"></i></li>
+            <li><a href="#"><i class="fa-regular fa-user"></i></a></li>
+    </ul>
+    <span class="menu-bar">
+        <i class="fa-solid fa-bars">
+            <div class="sidebar">
+             <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">News</a></li>
+             </ul>
+            </div>
+        </i>
+        
+    </span>
+     </div>
+     </header>
+   
+</body>
+</html>

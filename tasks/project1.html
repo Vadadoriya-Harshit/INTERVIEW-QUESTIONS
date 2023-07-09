@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input{
+
+        }
+        p{
+            color: red;
+            line-height: 0px;
+        }
+    </style>
+</head>
+<body>
+    <a href="" onclick="test()"> Go</a>
+    <p >Go</p>
+    <button onclick="ck()">click me</button>
+    <br><br>
+    <input type="text" name="" id="i1" onkeydown="test(this)">
+    <p id="err"> </p>
+</body>
+
+   <script>
+    function test(elem)
+    {
+        var a = document.getElementById('i1');
+        var d
+
+        var c = document.getElementById('err');
+     if(isNaN(elem)){
+          c.innerHTML="Please inpot Numbers Only";
+       }
+    else{
+        c.innerHTML=d;
+    }
+    }    
+
+
+
+
+
+
+
+
+    // function test()
+    // {
+    //     window.open("https://fonts.google.com/specimen/Poppins");
+    // }
+    // function ck()
+    // {
+    //     window.close("https://fonts.google.com/specimen/Poppins");
+    // }
+   </script>
+</html>

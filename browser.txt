@@ -37,11 +37,27 @@
 13) what is uri ?
 :- URI stands for Uniform Resource Identifier.A URI is a string that identifies a resource on the internet
 
-14) what is urn ?
-:-
+13) what is urn?
+:- uniform resource  name.
 
 15) what is ftp?
 :- File Transfer Protocol (FTP) is a standard network protocol used for transferring files between a client and a server over a computer network. I
 
 16) what is Tcp ?
  :- TCP (Transmission Control Protocol) is a method used by   devices connected to a network to reliably send and receive   data.
+
+17) what is ww?
+:-The World Wide Web (WWW) is a network of websites that we can access using the internet and web browsers.
+
+18) what is client server?
+:-
+A client-server setup is like a boss-worker relationship, where a central computer (server) provides services or resources to other computers (clients) that ask for them.
+
+19)  what is Extension ?
+:-An extension is like a small tool or software that you can add to your computer or web browser to give it new abilities or features that it didn't have before.
+
+20) what is address bar?
+:-The address bar is a text field in a web browser where you can type or paste the URL (Uniform Resource Locator) of a website you want to visit.
+
+21) what is Title bar?
+:-The title bar is a horizontal section at the top of a window that displays the title and provides window management options.
