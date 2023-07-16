@@ -1,0 +1,14 @@
+1. what are the advantages of Bootstrap 5 ?
+:-  ->it saves our time
+   ->it saves line of codes
+  ->By using this we can design website easily.
+  -> it makes website device friendly means responsive website
+
+2. what is grid system in bootstrap?
+:- grid system is made up of 12 columns ,it is used like col-lg-4 with the row class as perent. we have  to first creat row and then we can creat columns.
+
+3.bootstrap 5 Features ?
+:-  ->it has removed jquery and added vanilla js for better perfomance.
+  -> it has added  number of colors
+ ->
+
