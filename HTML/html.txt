@@ -71,8 +71,7 @@ Search
 
 33) Which type of video formats are supported by HTML5?
 :- HTML 5 supports three types of video format:
-
-mp4
+mp4s
 WebM
 Ogg
 

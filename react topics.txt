@@ -1,0 +1,15 @@
+1) use effect
+2) use state
+3) use context
+4) axios
+5) pop drilling
+6) object iterator
+7) dependency array
+8)mapping for object
+9)class component
+10) function component
+11) states
+12) props
+13)context api
+14) jsx
+15) render method
